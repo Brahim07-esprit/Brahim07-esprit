@@ -87,13 +87,13 @@ I'm a passionate data and AI engineering student at **Esprit Ecole d’Ingénieu
 
 ## 📚 Projects
 
-### [VEX (Video Text Detection)](https://github.com/brahimabdelbeki/VEX)
+### [VEX (Video Text Detection)](https://github.com/Brahim07-esprit/VEX-Video-Text-Detection-)
 
 - Developed a Flask and JavaScript web application integrating Pytesseract.
 - Achieved 96.3% accuracy in text extraction from video frames.
 - Increased user engagement by 25% by simplifying the video upload process and adding interactive features.
 
-### [Lexiland](https://github.com/brahimabdelbeki/Lexiland)
+### [Lexiland](https://github.com/Brahim07-esprit/Lexiland)
 
 - Created an educational platform to support dyslexic children using Django.
 - Simplified reading, writing, and comprehension tasks by 70%.
