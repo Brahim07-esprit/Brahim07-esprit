@@ -1,133 +1,58 @@
-# Hi there, I'm Brahim ABDELBEKI 👋
+<h1 align="center">
+  Hey, I'm Brahim
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-**Data and Artificial Intelligence Engineering Student**
-
-📍 Tunis, Tunisia  
-📧 brahim.abdelbeki@esprit.tn  
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate data and AI engineering student at **Esprit Ecole d’Ingénieur**, specializing in Data and Artificial Intelligence Engineering. With a strong foundation in software development and a keen interest in machine learning and deep learning, I love turning data into actionable insights.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3C8EFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Engineer+based+in+Paris.;LLMs%2C+Agents%2C+Graphs+%E2%80%94+built+cleanly.;Also+a+composer+and+fisherman+on+weekends." alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
+### 🧭 What I do
 
-- **Software Engineering Degree**  
-  *Esprit Ecole d’Ingénieur (2020 - Present)*  
-  Specialization: Data and Artificial Intelligence Engineering
+I'm an AI engineer focused on building intelligent systems that are structured, maintainable, and actually useful. My work lives at the intersection of:
 
----
+- **Large Language Models (LLMs)**: fine-tuning, optimizing, and connecting them to the real world
+- **Retrieval-Augmented Generation (RAG)**: making information more accessible through smart pipelines
+- **Multi-agent systems**: using LangChain, LangGraph, and tool orchestration to make decisions and take actions
+- **Knowledge graphs**: turning messy data into structured insight
+- **Machine learning pipelines**: from data prep to deployment, wrapped with Docker and tracked with Git
 
-## 🛠️ Skills
-
-### Programming Languages
-
-- Python
-- R
-- C++
-- Java
-- JavaScript
-- SQL
-
-### Web Development
-
-- Django
-- Flask
-- Spring Boot
-- WordPress
-
-### Machine Learning & Deep Learning
-
-- PyTorch
-- TensorFlow
-- Keras
-- Scikit-Learn
-- XGBoost
-
-### Tools and Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Git
-- Linux
-- UML
-
-### Languages
-
-- **English**: Full Professional Proficiency
-- **French**: Bilingual Proficiency
-- **Arabic**: Native Proficiency
+I like to build things that solve real problems and reduce unnecessary complexity. I think good engineering shows when a system does something valuable without needing to explain itself too much.
 
 ---
 
-## 💼 Experience
+### 🎧 Beyond code
 
-### Business Intelligence Analyst Intern  
-**Comar Assurances** | Tunis, Tunisia  
-*July 2024 - September 2024*
+Outside of work, you’ll probably find me doing one of three things:
 
-- Enhanced data reliability by 40% through data standardization and cleansing using SSIS and Talend.
-- Designed a Power BI dashboard to monitor claim settlement times, reducing average processing time by 25%.
-- Implemented risk assessment and pricing optimization models using XGBoost and Random Forest, increasing pricing accuracy by 30%.
-
-### Software Engineer  
-**Al Baraka Bank** | Tunis, Tunisia  
-*July 2023 - August 2023*
-
-- Developed a real-time chatbot for the bank's website using Node NLP, improving customer engagement and providing 24/7 support.
-- Created a Python script to analyze chatbot performance, enhancing response accuracy over time.
-- Optimized user satisfaction by refining chatbot responses based on unrecognized queries.
+- 🎼 **Composing music** for films and video games using virtual instruments. I enjoy creating emotional texture and telling stories without words.
+- 🎣 **Surfcasting** on the weekends — the calm, the precision, the focus… it feels a lot like debugging.
+- 🎬 Getting lost in cinema — from Kurosawa to Nolan, storytelling always inspires my technical side.
 
 ---
 
-## 📚 Projects
+### 🛠 My stack (these days)
 
-### [VEX (Video Text Detection)](https://github.com/Brahim07-esprit/VEX-Video-Text-Detection-)
-
-- Developed a Flask and JavaScript web application integrating Pytesseract.
-- Achieved 96.3% accuracy in text extraction from video frames.
-- Increased user engagement by 25% by simplifying the video upload process and adding interactive features.
-
-### [Lexiland](https://github.com/Brahim07-esprit/Lexiland)
-
-- Created an educational platform to support dyslexic children using Django.
-- Simplified reading, writing, and comprehension tasks by 70%.
-- Improved reading comprehension through NLP techniques and custom image processing.
-
-### Character-Level GPT Language Model
-
-- Developed a text generation model using PyTorch.
-- Trained on a 300-page book to generate coherent text.
-
-### Intrusion Detection System
-
-- Built using KNN and Decision Trees.
-- Utilized the KDD Cup 1999 public dataset for training and testing.
-
-### Object Detection Model with Adaptive Mask R-CNN
-
-- Applied to optical remote sensing images.
-- Used the NWPU VHR-10 public dataset for object detection tasks.
+- **Languages**: Python, JavaScript, SQL, Java  
+- **Frameworks & Tools**: PyTorch, Transformers, LangChain, LangGraph, NetworkX, FastAPI, Flask  
+- **DevOps**: Docker, Git, Cursor IDE  
+- **ML Infra**: PGVector, RAG, LoRA, Quantization, Gradient Checkpointing  
+- **Cloud & Visualization**: Azure, AWS, Power BI, Pyvis, Talend  
 
 ---
 
-## 🎶 Interests
+### 💬 Get in touch
 
-- **Movie Composition**: Composing music for films.
-- **Digital Marketing**: Exploring marketing strategies in the digital realm.
-- **Financial Literacy**: Reading books and materials on finance.
+I'm always open to thoughtful collaboration, especially on meaningful AI projects or open-source tools.
 
+- 📫 **Email**: [abdelbekimedbrahim@gmail.com](mailto:abdelbekimedbrahim@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/brahim-abdelbeki](https://www.linkedin.com/in/brahim-abdelbeki)  
 ---
 
-## 📫 Get in Touch
-
-- **Email**: [brahim.abdelbeki@esprit.tn](mailto:brahim.abdelbeki@esprit.tn)
-- **LinkedIn**: [linkedin.com/in/brahim-abdelbeki](linkedin.com/in/brahim-abdelbeki) *(Update with your actual LinkedIn URL)*
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C8EFF&height=120&section=footer"/>
+</p>
